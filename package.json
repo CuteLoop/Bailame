@@ -1,0 +1,29 @@
+{
+  "name": "bailame",
+  "version": "1.0.0",
+  "description": "I want to make a Latin dance videogame. First I will make many mini games. And a website where to post them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuteLoop/Bailame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CuteLoop/Bailame/issues"
+  },
+  "homepage": "https://github.com/CuteLoop/Bailame#readme",
+  "dependencies": {
+    "p5": "^2.3.0",
+    "vite": "^8.0.16"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "vitest": "^4.1.9"
+  }
+}
